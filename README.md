@@ -506,7 +506,7 @@ namespace VisitWebAPI_C
 ```
 
 ## VB.net调用示例
-```
+```vb.net
 Imports System.Net
 Module Module1
 
